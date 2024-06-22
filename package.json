@@ -1,6 +1,6 @@
 {
   "name": "@webnaresh/rmtf",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "rmtf",
   "main": "index.js",
   "bin": {
