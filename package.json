@@ -1,28 +1,29 @@
 {
-  "name": "@webnaresh/rmtf",
+  "name": "rmtf",
   "version": "1.0.3",
-  "description": "rmtf",
+  "description": "Description of your package.",
   "main": "index.js",
+  "keywords": [
+    "vite",
+    "react",
+    "mui",
+    "tailwindcss"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebNaresh/vite-react-app-mui-tailwindcss--integrate.git"
+  },
+  "author": "Naresh Bhosale",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "bin": {
     "transfyvthree": "./bin/cli.js"
   },
-  "publishConfig": {
-    "registry": "http://npm.pkg.github.com/@WebNaresh"
-  },
-  "scripts": {
-    "test": "frontend"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/WebNaresh/vite-react-app-mui-tailwindcss--integrate.git"
-  },
-  "keywords": [
-    "frontend"
-  ],
-  "author": "web_naresh",
-  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/WebNaresh/vite-react-app-mui-tailwindcss--integrate.git"
+    "url": "https://github.com/WebNaresh/vite-react-app-mui-tailwindcss--integrate/issues"
   },
-  "homepage": "https://github.com/WebNaresh/vite-react-app-mui-tailwindcss--integrate/"
+  "homepage": "https://github.com/WebNaresh/vite-react-app-mui-tailwindcss--integrate#readme"
 }
